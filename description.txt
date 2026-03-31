@@ -1,0 +1,12 @@
+left arrow key for stoping the auto screen scrolling
+space for jumping
+w for using spice
+e for using float
+shift for using mushroom
+levels ranging from the easiest to the hardest(very easy to professional)
+scroll down in the main menu for more levels, and settings
+It will generate a score.py on your computer, don't panick! It is for scores and settings tracking.
+NO fee requiered.
+Pls give suggestions and help to the code!
+Written in python.
+Made by an independent game developer , support me!
